@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rbourassaca
+- 👀 I’m interested in web development / audio production
+- 🌱 I’m currently learning Next.js
