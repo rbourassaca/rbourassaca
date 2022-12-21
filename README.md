@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @rbourassaca and I do things
+# 👋 Hi, I’m @rbourassaca...
+... and I do things.
